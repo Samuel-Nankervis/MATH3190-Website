@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Lab3-Quarto-Website"
+  title: "Samuel Nankervis' Math3190 Homework Repository"
   navbar:
     left:
       - href: index.qmd

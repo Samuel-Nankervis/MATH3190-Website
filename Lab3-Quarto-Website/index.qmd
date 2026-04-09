@@ -1,7 +1,9 @@
 ---
-title: "Lab3-Quarto-Website"
+title: "Samuel Nankervis' Math3190 Homework Repository"
 ---
 
-This is a Quarto website.
+This is a Quarto website containing all of my homework for MATH 3190. There should be links to each one at the top left of the site. See the About Me section for my contact information and a bit about me.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+If your looking for my final project, see my github page here:
+
+[Predicting Time to Charge Off Using Cox Regression](https://github.com/Samuel-Nankervis/Predicting_Time_to_Charge_Off_Using_Cox_Regression)
