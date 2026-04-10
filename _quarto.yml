@@ -5,26 +5,26 @@ project:
 website:
   title: "Samuel Nankervis' Math3190 Homework Repository"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
       - href: Homework/Homework1.qmd
-        text: Homework 1
+        text: HW 1
       - href: Homework/Homework2.qmd
-        text: Homework 2
+        text: HW 2
       - href: Homework/Homework3.qmd
-        text: Homework 3
+        text: HW 3
       - href: Homework/Homework4.qmd
-        text: Homework 4
+        text: HW 4
       - href: Homework/Homework5.qmd
-        text: Homework 5
+        text: HW 5
       - href: Homework/Homework6.qmd
-        text: Homework 6
+        text: HW 6
       - href: Homework/Homework7.qmd
-        text: Homework 7
+        text: HW 7
       - href: Homework/Homework8.qmd
-        text: Homework 8
+        text: HW 8
 
 format:
   html:

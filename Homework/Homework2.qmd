@@ -50,9 +50,9 @@ library(devtools)
 
 #make .sqlite file
 con <- DBI::dbConnect(RSQLite::SQLite(), ":memory:")
-flight_files <- list.files("..\\..\\..\\..\\..\\BigData\\flightsFiles")
+flight_files <- list.files("..\\..\\..\\..\\BigData\\flightsFiles")
 for (file in flight_files) {
-data_file <- read.csv(paste0("..\\..\\..\\..\\..\\BigData\\flightsFiles\\", file))
+data_file <- read.csv(paste0("..\\..\\..\\..\\BigData\\flightsFiles\\", file))
 # Add data frame as a table
 DBI::dbWriteTable(con, substr(file, 1, nchar(file) - 4), data_file)
 rm(data_file)
@@ -69,7 +69,7 @@ Connect to the `.sqlite` database that you created in Part a like we did on slid
 #| #| cache: true
 # Note that the connection filepath may need to be moved to match your specific computer's file structure. I have my large data files in a "BigData" folder outside of the MATH3190-Assignments folder.
 con <- DBI::dbConnect(RSQLite::SQLite(),
-"..\\..\\..\\..\\..\\BigData\\flights.sqlite")
+"..\\..\\..\\..\\BigData\\flights.sqlite")
 DBI::dbListTables(con) # List all database tables
 ```
 

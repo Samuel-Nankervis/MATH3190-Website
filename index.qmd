@@ -7,3 +7,15 @@ This is a Quarto website containing all of my homework for MATH 3190. There shou
 If your looking for my final project, see my github page here:
 
 [Predicting Time to Charge Off Using Cox Regression](https://github.com/Samuel-Nankervis/Predicting_Time_to_Charge_Off_Using_Cox_Regression)
+
+# **About Me:**
+
+I am a Southern Utah University student currently working on my Bachelors in Math with an Actuarial emphasis. I also plan on getting a minor in Computer Science and Finance. I enjoy doing data analysis in ways that lead to solving a real world problem. I also do some light game modding in my spare time. If you need to contact me about a project or anything else, you can reach me here:
+
+*email:* [nankervissamuel\@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWstxRXmfBbdwZbTdZHTTQSXLkpdPXRhTNcVnDCqDWDPdcLSLXslctbBKJXZxRdpCLhdJPkRg)
+
+*Phone:* +1-435-559-1439
+
+*Linkedin:* [Samuel Nankervis](https://www.linkedin.com/in/samuel-nankervis-b207873b1/)
+
+*Github:* [Samuel-Nankervis](https://github.com/Samuel-Nankervis)
